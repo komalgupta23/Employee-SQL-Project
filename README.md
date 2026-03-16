@@ -7,16 +7,16 @@ This repository contains a comprehensive SQL analysis of a large-scale employee 
 The objective of this project was to transform raw employee data into actionable business intelligence. I have written and optimized over 150 queries to solve various business problems related to salary distribution, performance benchmarking, and organizational structure.
 
 🛠️ Tech Stack
-        - Database: MySQL
-        - Key SQL Concepts: * Data Cleaning (NULL handling, Duplicate removal).
-                - Advanced Joins & Subqueries.
-                - Window Functions (DENSE_RANK, ROW_NUMBER, PARTITION BY).
-                - Data Transformation (CASE Statements, ALTER, UPDATE).
+        (a) Database: MySQL
+        (b) Key SQL Concepts: * Data Cleaning (NULL handling, Duplicate removal).
+                1. Advanced Joins & Subqueries.
+                2. Window Functions (DENSE_RANK, ROW_NUMBER, PARTITION BY).
+                3. Data Transformation (CASE Statements, ALTER, UPDATE).
 
 📁 Repository Structure
-    - SQL_Queries.sql: The main file containing all 150+ queries.
-    - Screenshots/: A folder containing query results and execution proofs.
-    - Project_Presentation.pdf: A detailed report/presentation of the findings.
+    1. SQL_Queries.sql: The main file containing all 150+ queries.
+    2. Screenshots/: A folder containing query results and execution proofs.
+    3. Project_Presentation.pdf: A detailed report/presentation of the findings.
 
 💡 Key Analysis & Insights
 
